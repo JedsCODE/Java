@@ -1,10 +1,6 @@
 <a href="#"><img title="GataBot-MD" src="https://img.shields.io/badge/SI TE AGRADA EL REPOSITORIO APOYAME CON UNA 🌟 ¡GRACIAS! -red?colorA=%255ff0000&colorB=%23017e40&style=for-the-badge"></a> 
 ### 🌼 INTEGRANTES 🌼
 ```bash
-CODIGO: R03383H
-APELLIDO NOMBRE: CCENTE GARCIA KEVIN
-CORREO: r03383h@upla.edu.pe
------------------------------------------
 CODIGO: R03414A
 APELLIDO NOMBRE: TOVAR MONTOYA JOAQUIN BENJAMIN
 CORREO: r03414a@upla.edu.pe
